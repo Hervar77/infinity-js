@@ -3,6 +3,4 @@ INFINITY.JS is a persistent javascript server runtime that supports multi-thread
 
 This project does not contain the proprietary source code of the engine but you can download the binary releases and use them in your own projects.
 
-**Documentation**
-
-http://infinity-js.de/
+**Documentation Link:** http://infinity-js.de/

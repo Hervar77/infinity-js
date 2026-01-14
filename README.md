@@ -3,4 +3,4 @@ INFINITY.JS V3 is a persistent javascript server runtime that supports multi-thr
 
 This project does not contain the proprietary source code of the engine but you can download the binary releases and use them in your own projects.
 
-**Documentation Link:** http://infinity-js.de/
+**Documentation Link:** https://infinity-js.de/
